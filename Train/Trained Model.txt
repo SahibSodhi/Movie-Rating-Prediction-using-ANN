@@ -1,1 +1,4 @@
+For training model download the csv file from the link mentioned below and save it in "Train" folder.
 
+The link for the training model is:
+https://drive.google.com/file/d/1qPvM50FQ4sNw5NJes5EDa2ALsb9NRE7C/view?usp=sharing
